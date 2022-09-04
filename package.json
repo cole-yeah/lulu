@@ -1,0 +1,25 @@
+{
+  "name": "lulu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cole-yeah/lulu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cole-yeah/lulu/issues"
+  },
+  "homepage": "https://github.com/cole-yeah/lulu#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "shelljs": "^0.8.5"
+  }
+}
